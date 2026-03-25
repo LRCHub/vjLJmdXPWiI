@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロマンチックがもの足りない (2017 Remastering)",
+  "base_artist": "岡本舞子",
+  "createdAt": "2026-03-25T20:35:39.312307Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロマンチックがもの足りない",
+      "artist": "岡本舞子",
+      "has_synced": false,
+      "path": "select/pl_01_ロマンチックがもの足りない_岡本舞子.txt"
+    }
+  ]
+}
